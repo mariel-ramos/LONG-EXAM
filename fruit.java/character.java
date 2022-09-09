@@ -1,7 +1,6 @@
-public class Char {
 
-     private static int i;
-    public static void main(String[] args) {
+public class Char {
+     public static void main(String[] args) {
         
          //Create an array of characters of your favorite fruit
          char[] Banana = { 'B', 'A', 'N', 'A', 'N', 'A' };
@@ -29,3 +28,5 @@ public class Char {
 
         
     }
+
+
